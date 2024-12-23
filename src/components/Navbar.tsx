@@ -142,7 +142,7 @@ function Navbar(){
                                 Cart
                             </Link>
 
-                            <Link href={"http://localhost:3000"} className="flex gap-2 items-center text-black text-lg">
+                            <Link href={"https://ecommerce-seller-pi.vercel.app/"} className="flex gap-2 items-center text-black text-lg">
                                 <PiStorefront />
                                 Become a Seller
                             </Link>
